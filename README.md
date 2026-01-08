@@ -1,0 +1,1 @@
+# dell-latitude-7390-efi-sequoia
