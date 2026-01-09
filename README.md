@@ -26,7 +26,7 @@ Dell Latitude 7390 OpenCore EFI build for macOS Sequoia v15.7.3. This EFI was mo
 | Audio             | Realtek ALC3246                     | Works    |
 | WiFi & BT         | Intel Wireless-AC 8265NGW           | Partial  |
 | Ethernet          | Intel Ethernet I219-LM              | Works    |
-| SD Card Reader    | Realtek Memory Card Reader          | Works    |
+| SD Card Reader    | Realtek RTS525A Card Reader         | Works    |
 | Smart Card Reader | Broadcom USH 5880                   | Untested |
 | Mic               | Builtin                             | Works    |
 | Webcam            | Builtin                             | Works    |
